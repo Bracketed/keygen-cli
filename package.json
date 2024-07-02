@@ -1,6 +1,6 @@
 {
 	"name": "@bracketed/create-keygen",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"packageManager": "yarn@4.0.2",
 	"author": "bracketed",
 	"type": "module",
