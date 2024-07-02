@@ -1,5 +1,5 @@
 export default function keygen() {
-	const characters = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890';
+	const characters = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890#@';
 	const availableSpecialCharacters = '_.';
 	const availableLength = 128;
 
